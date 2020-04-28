@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/coviddash/static/css/main.0dc3d123.chunk.css",
+    "main.js": "/coviddash/static/js/main.684f4440.chunk.js",
+    "main.js.map": "/coviddash/static/js/main.684f4440.chunk.js.map",
+    "runtime-main.js": "/coviddash/static/js/runtime-main.a8ab2bd0.js",
+    "runtime-main.js.map": "/coviddash/static/js/runtime-main.a8ab2bd0.js.map",
+    "static/js/2.87c313f3.chunk.js": "/coviddash/static/js/2.87c313f3.chunk.js",
+    "static/js/2.87c313f3.chunk.js.map": "/coviddash/static/js/2.87c313f3.chunk.js.map",
+    "index.html": "/coviddash/index.html",
+    "precache-manifest.d356fad1fadb957c1e4e3c40e31c0ebf.js": "/coviddash/precache-manifest.d356fad1fadb957c1e4e3c40e31c0ebf.js",
+    "service-worker.js": "/coviddash/service-worker.js",
+    "static/css/main.0dc3d123.chunk.css.map": "/coviddash/static/css/main.0dc3d123.chunk.css.map",
+    "static/js/2.87c313f3.chunk.js.LICENSE.txt": "/coviddash/static/js/2.87c313f3.chunk.js.LICENSE.txt",
+    "static/media/icon.png": "/coviddash/static/media/icon.9db34808.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8ab2bd0.js",
+    "static/js/2.87c313f3.chunk.js",
+    "static/css/main.0dc3d123.chunk.css",
+    "static/js/main.684f4440.chunk.js"
+  ]
+}
